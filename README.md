@@ -7,7 +7,7 @@ A PocketMine-MP plugin that lets players have secondary portably accessible inve
 
 Fix 1.19.50
 
-Authors Github:
+Authors Github: https://muqs.it/
 
 ## Wiki
 Refer to the [PlayerVaults Wiki](https://github.com/Muqsit/PlayerVaults/wiki) to get help with commands, permissions and other things.
